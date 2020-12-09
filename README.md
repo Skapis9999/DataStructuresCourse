@@ -1,2 +1,2 @@
 # DataStructuresCourse
-DataStructuresCourse 2018 Part A, B and D (C is missing ofr unknown reasons)
+DataStructuresCourse 2018 Part A, B and D (C is missing for unknown reasons)
